@@ -1,5 +1,6 @@
 <script>
 export default {
+  name:"movies",
   data() {
     return {
      
@@ -12,7 +13,7 @@ export default {
 </script>
 
 <template>
-<h1>Home</h1>
+<h1>Movies</h1>
 </template>
 
 <style scoped>
