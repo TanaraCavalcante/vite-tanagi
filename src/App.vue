@@ -7,7 +7,7 @@ export default {
   data() {
     return {
      
-      datatciao:[],
+     
     }
   },
   components:{
