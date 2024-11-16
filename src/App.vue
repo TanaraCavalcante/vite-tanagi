@@ -8,6 +8,8 @@ export default {
   data() {
     return {
      
+      hello Gina
+
     }
   },
   components:{
