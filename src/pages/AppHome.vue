@@ -13,7 +13,9 @@ export default {
 </script>
 
 <template>
-<h1>Home</h1>
+  <section class="container">
+    <h2>Home</h2>
+  </section>
 </template>
 
 <style scoped>
