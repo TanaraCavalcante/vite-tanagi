@@ -8,6 +8,11 @@ export default {
     return {
      
       datatciao:[],
+      datatc:[],
+      datatci:[],
+      datatcia:[],
+      datato:[],
+
     }
   },
   components:{
