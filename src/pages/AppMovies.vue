@@ -6,9 +6,7 @@ export default {
      
     }
   },
-  components:{
-  
-  }
+ 
 }
 </script>
 
