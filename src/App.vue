@@ -1,5 +1,7 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
+import AppMain from './components/AppMain.vue';
+
 
 export default {
   data() {
@@ -8,15 +10,19 @@ export default {
     }
   },
   components:{
-  AppHeader
+  AppHeader,
+  AppMain
   }
 }
 </script>
 
 <template>
 <AppHeader/>
+<AppMain/>
 </template>
 
-<style scoped>
+<style lang="scss">
+@use "../node_modules/bootstrap/scss/bootstrap.scss" as *;
+@use "./style/general.scss" as *;
   
 </style>
