@@ -8,6 +8,11 @@ export default {
     return {
      
       hello Gina
+      datatciao:[],
+      datatc:[],
+      datatci:[],
+      datatcia:[],
+      datato:[],
 
     }
   },
