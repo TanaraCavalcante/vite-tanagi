@@ -1,6 +1,6 @@
 <script>
 export default {
-    name: "ProjectCard",
+    name: "MovieCard",
     data() {
         return {
 
